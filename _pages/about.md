@@ -15,7 +15,7 @@ Expanding on my work in the Bulgarian Academy of Sciences' Summer Research Schoo
 
 Research Work
 ------
-A complete summary of my research work can be found in the [CV section](https://amitesh2624.github.io/cv), but over the years, I have worked on policy data analysis and handling governmental data, formulating policy recommendations on the basis of statistical inferences for [The World Resources Institute](https://www.wri.org/), analysing approximate and optimal solutions to NP-Hard problems such as the 2DBPP using genetic algorithms as part of the [Bulgarian Academy of Sciences](https://bas.bg), and analyse privacy frameworks, verifiable credentials, and global COVID control and monetary strategies' data for the [MIT PathCheck Foundation](https://www.pathcheck.org/).
+A complete summary of my research work can be found in the [publications](https://amitesh2624.github.io/publications) section, but over the years, I have worked on policy data analysis and handling governmental data, formulating policy recommendations on the basis of statistical inferences for [The World Resources Institute](https://www.wri.org/), analysing approximate and optimal solutions to NP-Hard problems such as the 2DBPP using genetic algorithms as part of the [Bulgarian Academy of Sciences](https://bas.bg), and analyse privacy frameworks, verifiable credentials, and global COVID control and monetary strategies' data for the [MIT PathCheck Foundation](https://www.pathcheck.org/).
 
 Other Interests and Extracurricular Engagement
 ------
