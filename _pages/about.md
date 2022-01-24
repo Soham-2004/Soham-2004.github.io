@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an incoming freshman at the [California Institute of Technology](https://caltech.edu) and a current high school senior at Lotus Valley International School, Gurugram. I am deeply passionate about mathematics and computer Science. My research interests include time series analyses, computational geometry and dynamic systems modelling. When I'm not working, I tend to read books, articles and surf the Wikipedia.
+I am an incoming freshman at the [California Institute of Technology](https://caltech.edu) and a current high school senior at Lotus Valley International School, Gurugram. I am deeply passionate about mathematics and computer Science. My research interests include time series analyses, computational geometry and dynamical systems modelling. When I'm not working, I tend to read books, articles and surf the Wikipedia.
 
 On-going Projects
 ------
@@ -23,4 +23,4 @@ I try to remain politically active and a responsible citizen of India. In my fre
 
 Contact Info
 ------
-You can reach out to me via  [my Linkedin](https://linkedin.com/in/aapandey) or by emailing me at amitesh2624 [at] gmail [dot] com.
+You can reach out to me via my [Linkedin](https://linkedin.com/in/aapandey) or by emailing me at amitesh2624 [at] gmail [dot] com.
