@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 1"
+title: "An Analysis of Solutions to the 2D Bin Packing Problem and Additional Complexities"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/2021-09-06-bin-packing-solutions
+excerpt: 'In this paper, we discuss the mathematical formulation of the bin packing problem. Furthermore, we analyse its approximate solutions' time complexity, its NP-Hardness and some of its stochastic solutions with their efficiencies. We then propose additional complexities that would make the problem more fit for industrial use and discuss in depth the domains in which it might prove to be useful. We conclude while suggesting areas of improvement in operations research on this subject.'
+date: 2021-09-06
+venue: 'International Journal of Mathematics and its Applications'
+paperurl: 'https://www.techrxiv.org/articles/preprint/An_Analysis_of_Solutions_to_the_2D_Bin_Packing_Problem_and_Additional_Complexities/15262176/files/29244384.pdf'
 ---
-This paper is about the number 1. The number 2 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://www.techrxiv.org/articles/preprint/An_Analysis_of_Solutions_to_the_2D_Bin_Packing_Problem_and_Additional_Complexities/15262176/files/29244384.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
