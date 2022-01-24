@@ -6,7 +6,9 @@ excerpt: 'In this paper, we discuss the mathematical formulation of the bin pack
 date: 2021-09-06
 venue: 'International Journal of Mathematics and its Applications'
 paperurl: 'https://www.techrxiv.org/articles/preprint/An_Analysis_of_Solutions_to_the_2D_Bin_Packing_Problem_and_Additional_Complexities/15262176/files/29244384.pdf'
+citation: 'A.A. Pandey. (2021). "An Analysis of Solutions to the 2D Bin Packing Problem and Additional Complexities." <i> International Journal of Mathematics and its Applications </i>. 9(3)'
 ---
 
 [Download paper here](https://www.techrxiv.org/articles/preprint/An_Analysis_of_Solutions_to_the_2D_Bin_Packing_Problem_and_Additional_Complexities/15262176/files/29244384.pdf)
 
+Recommended citation: A.A. Pandey. (2021). "An Analysis of Solutions to the 2D Bin Packing Problem and Additional Complexities." <i> International Journal of Mathematics and its Applications </i>. 9(3)
