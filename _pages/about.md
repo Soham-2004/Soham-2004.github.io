@@ -11,7 +11,7 @@ I am an incoming freshman at the [California Institute of Technology](https://ca
 
 On-going Projects
 ------
-Expanding on my work in the Bulgarian Academy of Sciences' Summer Research School, I am currently working on an interactive web-app that visualises the placement of objects in a 2D Bin Packing Problem using a [Multi-start Genetic Algorithm](https://link.springer.com/chapter/10.1007/0-306-48056-5_12). Secondly, I am also workiing on using sentiment analysis with the [NLTK library](https://www.nltk.org/) to analyse public political and economic opinion trends over the years.  
+Expanding on my work in the Bulgarian Academy of Sciences' Summer Research School, I am currently working on an interactive web-app that visualises the placement of objects in a 2D Bin Packing Problem using a [Multi-start Genetic Algorithm](https://link.springer.com/chapter/10.1007/0-306-48056-5_12). Secondly, I am also working on using sentiment analysis with the [NLTK library](https://www.nltk.org/) to analyse public political and economic opinion trends over the years.  
 
 Research Work
 ------
