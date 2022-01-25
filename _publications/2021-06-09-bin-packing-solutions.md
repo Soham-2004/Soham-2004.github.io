@@ -6,7 +6,7 @@ excerpt: 'In this paper, we discuss the mathematical formulation of the bin pack
 date: 2021-06-09
 venue: 'International Journal of Mathematics and its Applications'
 paperurl: 'https://www.techrxiv.org/articles/preprint/An_Analysis_of_Solutions_to_the_2D_Bin_Packing_Problem_and_Additional_Complexities/15262176/files/29244384.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'A.A. Pandey. (2021). "An Analysis of Solutions to the 2D Bin Packing Problem and Additional Complexities." <i> International Journal of Mathematics and its Applications </i>. 9(3)'
 ---
 The sole author on a paper published in the International Journal of Mathematics and its Applications. Advised by Todor Markov, a mentor for the Summer Research School at the Bulgarian Academy of Sciences. This paper investigates the 2D Bin Packing Problem and its solutions. 
 
