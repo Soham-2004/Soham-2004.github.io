@@ -2,9 +2,20 @@
 main:
   - title: "Publications"
     url: /publications/
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+
+  # - title: "Talks"
+  #   url: /talks/
+
+  - title: "Teaching"
+    url: /teaching/
+  # - title: "Work Experience"
+  #   url: /work_exp/
+
+  # - title: "Blog Posts"
+  #   url: /year-archive/
+
+  - title: "Work Experience"
+    url: /work_exp/
     
   - title: "Resume"
     url: /files/Amitesh_Resume (1).pdf
