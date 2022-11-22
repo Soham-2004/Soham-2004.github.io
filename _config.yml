@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Amitesh Anand Pandey"
   avatar           : "profile.png"
-  bio              : "Incoming Freshman, interested in Applied Math"
+  bio              : "Incoming Freshman, interested in CS & Economics"
   location         : "Pasadena, California"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=HaiAgVAAAAAJ&hl=en"
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "AmiteshAnandPa2"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
