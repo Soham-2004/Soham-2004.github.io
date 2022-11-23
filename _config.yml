@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amitesh Anand Pandey"
+title                    : "Soham Dasgupta"
 title_separator          : "-"
-name                     : &name "Amitesh Anand Pandey"
-description              : &description "Incoming Freshman at Caltech"
+name                     : &name "Soham Dasgupta"
+description              : &description "Undergraduate at Caltech"
 url                      : https://soham-2004.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Soham-2004.github.io"
@@ -80,18 +80,18 @@ analytics:
 
 # Site Author
 author:
-  name             : "Amitesh Anand Pandey"
+  name             : "Soham Dasgupta"
   avatar           : "profile.png"
-  bio              : "Incoming Freshman, interested in CS & Economics"
-  location         : "Pasadena, California"
+  bio              : "Computer Science and Business Finance Undergraduate"
+  location         : "Caltech"
   employer         :
-  googlescholar    : "https://scholar.google.com/citations?user=HaiAgVAAAAAJ&hl=en"
-  email            :
-  researchgate     : "https://www.researchgate.net/profile/Amitesh-Pandey-6"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=-Z_OItkAAAAJ"
+  email            : "sdasgupt@caltech.edu"
+  researchgate     : 
   uri              :
   bitbucket        :
   codepen          :
-  dribbble         :
+  dblp             : 
   flickr           :
   facebook         :
   foursquare       :
@@ -101,7 +101,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "sohamdasgupta91"
   orcid            : "https://orcid.org/0000-0002-6768-0421"
   pinterest        :
   soundcloud       :
