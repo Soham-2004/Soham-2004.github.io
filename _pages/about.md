@@ -12,14 +12,13 @@ I am a freshman majoring in Computer Science and BEM (Business, Economics, and M
 
 On-going Projects
 ------
-I am currently working at the NVIDIA AI Lab with Prof. Anima Anandkumar and Prof. Kamyar Azizzadenesheli on using neural operators for Functional Ultrasound Imaging. I am developing a novel algorithm using Partial Differential Equations to learn power Doppler reconstruction functions from
-sparse sequences of ultrasound data of rat brain images.
+I am currently working at the [NVIDIA AI Lab](https://www.nvidia.com/en-us/) with [Prof. Anima Anandkumar](https://eas.caltech.edu/people/anima) and [Prof. Kamyar Azizzadenesheli](https://kamyar.page) on using neural operators for Functional Ultrasound Imaging. I am developing a novel algorithm using Partial Differential Equations to learn power Doppler reconstruction functions from sparse sequences of ultrasound data of rat brain images.
 
 Work Experience
 ------
 A complete summary of my research projects can be found in the [publications](https://soham-2004.github.io/publications/) section, but over the years, I have worked on interdisciplinary AI. During the onset of the pandemic in 2020, I worked at the [MIT PathCheck Foundation](https://www.pathcheck.org/) as a Software Developer. I worked on using statistical modelling to study the spread of COVID-19 in different countries and the efficacy of different governmental measures. I also led research team of 20 to analyze global COVID control and monetary strategies as well as the vaccination credential issued by various countis.
 
-In addition, I interned at IBM in May 2021. I worked with IBM researchers and psychologists from EmancipAction - a foundation in Mumbai, India, that homes
+In addition, I interned at [IBM Research](https://research.ibm.com) in May 2021. I worked with IBM researchers and psychologists from EmancipAction - a foundation in Mumbai, India, that homes
 victims of human trafficking. I contributed towards building an AI-assisted framework, powered by IBM Watson, that allows young girls at Emancipation to converse with a mental health chatbot in Hindi, English and Kannada. 
 
 
