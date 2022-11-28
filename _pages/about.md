@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a freshman majoring in Computer Science and BEM (Business, Economics, and Management) at the [California Institute of Technology(Caltech)](https://caltech.edu). My interests lie in machine learning, computer vision, and economics. In specific, I am interested in the applications of machine learning to other interdisciplinary fields. Previously, I have done research projects in the fields of healthcare, cybersecurity, and statistical modelling.
+I am a freshman majoring in Computer Science and B.E.M (Business, Economics, and Management) at the [California Institute of Technology(Caltech)](https://caltech.edu). My interests lie in machine learning, computer vision, and economics. In specific, I am interested in the applications of machine learning to other interdisciplinary fields. Previously, I have done research projects in the fields of healthcare, cybersecurity, and statistical modelling.
 
 
 On-going Projects
@@ -16,7 +16,7 @@ I am currently working at the [NVIDIA AI Lab](https://www.nvidia.com/en-us/) wit
 
 Work Experience
 ------
-A complete summary of my research projects can be found in the [publications](https://soham-2004.github.io/publications/) section, but over the years, I have worked on interdisciplinary AI. During the onset of the pandemic in 2020, I worked at the [MIT PathCheck Foundation](https://www.pathcheck.org/) as a Software Developer. I worked on using statistical modelling to study the spread of COVID-19 in different countries and the efficacy of different governmental measures. I also led research team of 20 to analyze global COVID control and monetary strategies as well as the vaccination credential issued by various countis.
+A complete summary of my research projects can be found in the [publications](https://soham-2004.github.io/publications/) section, but over the years, I have primarily worked on interdisciplinary AI. During the onset of the pandemic in 2020, I worked at the [MIT PathCheck Foundation](https://www.pathcheck.org/) as a Software Developer. I worked on using statistical modelling to study the spread of COVID-19 in different countries and the efficacy of different governmental measures. I also led research team of 20 to analyze global COVID control and monetary strategies as well as the vaccination credential issued by various countis.
 
 In addition, I interned at [IBM Research](https://research.ibm.com) in May 2021. I worked with IBM researchers and psychologists from EmancipAction - a foundation in Mumbai, India, that homes
 victims of human trafficking. I contributed towards building an AI-assisted framework, powered by IBM Watson, that allows young girls at Emancipation to converse with a mental health chatbot in Hindi, English and Kannada. 
