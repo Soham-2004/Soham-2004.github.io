@@ -1,14 +1,22 @@
 ---
-title: "An Analysis of Solutions to the 2D Bin Packing Problem and Additional Complexities"
+title: "“Adverse Drug Event Prediction using Noisy Literature-Derived Knowledge Graphs: Algorithm Development and Evaluation”
 collection: publications
 permalink: /publication/2021-06-09-bin-packing-solutions
-excerpt: "In this paper, we discuss the mathematical formulation of the bin packing problem. Furthermore, we analyse its approximate solutions' time complexity, its NP-Hardness and some of its stochastic solutions with their efficiencies. We then propose additional complexities that would make the problem more fit for industrial use and discuss in depth the domains in which it might prove to be useful. We conclude while suggesting areas of improvement in operations research on this subject."
-date: 2021-06-09
-venue: 'International Journal of Mathematics and its Applications'
-paperurl: 'https://www.techrxiv.org/articles/preprint/An_Analysis_of_Solutions_to_the_2D_Bin_Packing_Problem_and_Additional_Complexities/15262176/files/29244384.pdf'
+excerpt: 'Adverse drug events (ADEs) are unintended side effects of drugs that cause substantial clinical and economic burdens globally. A wealth of information, which facilitates ADE discovery, lies in the growing body of biomedical literature. Knowledge graphs (KGs) encode this information from the literature, where the vertices and the edges represent clinical concepts and their relations, respectively. In this paper, we use confidence scores during representation learning, so that the learned embeddings yield better features for ADE prediction models. '
+date: 2021-10-25
+venue: 'Journal of Medical Internet Research(JMIR)'
+paperurl: 'https://medinform.jmir.org/2021/10/e32730/'
 ---
-The sole author on a paper published in the International Journal of Mathematics and its Applications. Advised by Todor Markov, a mentor for the Summer Research School at the Bulgarian Academy of Sciences. This paper investigates the 2D Bin Packing Problem and its solutions. 
+First authored paper accepted to the Journal of Medical Internet Research(JMIR).
 
-[Download paper here](https://www.techrxiv.org/articles/preprint/An_Analysis_of_Solutions_to_the_2D_Bin_Packing_Problem_and_Additional_Complexities/15262176/files/29244384.pdf)
+Adverse drug events (ADEs) are unintended side effects of drugs that cause substantial clinical and economic burdens globally. A wealth of information, which facilitates ADE discovery, lies in the growing body of biomedical literature. Knowledge graphs (KGs) encode this information from the literature, where the vertices and the edges represent clinical concepts and their relations, respectively. In this paper, we use confidence scores during representation learning, so that the learned embeddings yield better features for ADE prediction models.
 
-Recommended citation: A.A. Pandey. (2021). "An Analysis of Solutions to the 2D Bin Packing Problem and Additional Complexities." <i> International Journal of Mathematics and its Applications </i>. 9(3)
+[Download paper here](https://medinform.jmir.org/2021/10/e32730/PDF)
+
+Recommended citation:
+
+Dasgupta S, Jayagopal A, Jun Hong A, Mariappan R, Rajan V
+Adverse Drug Event Prediction Using Noisy Literature-Derived Knowledge Graphs: Algorithm Development and Validation
+JMIR Med Inform 2021;9(10):e32730
+URL: https://medinform.jmir.org/2021/10/e32730
+DOI: 10.2196/32730
