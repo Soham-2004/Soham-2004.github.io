@@ -7,17 +7,22 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a freshman majoring in Computer Science and Economics at the [California Institute of Technology](https://caltech.edu). I am passionate about machine learning, statistics and mathematical economics. My research interests include time series analyses, computational geometry and dynamical systems modelling.
+I am a freshman majoring in Computer Science and BEM (Business, Economics, and Management) at the [California Institute of Technology(Caltech)](https://caltech.edu). My interests lie in machine learning, computer vision, and economics. In specific, I am interested in the applications of machine learning to other interdisciplinary fields. Previously, I have done research projects in the fields of healthcare, cybersecurity, and statistical modelling.
+
 
 On-going Projects
 ------
-Expanding on my work with the Bulgarian Academy of Sciences' Summer Research School, I am currently working on an interactive web-app that visualises the placement of objects in the 2D Bin Packing Problem using a [Multi-start Genetic Algorithm](https://link.springer.com/chapter/10.1007/0-306-48056-5_12). Secondly, I am also working on using sentiment analysis with the [NLTK library](https://www.nltk.org/) in Python to analyse public political and economic opinion trends over the years, in particular after major international political events. 
+I am currently working at the NVIDIA AI Lab with Prof. Anima Anandkumar and Prof. Kamyar Azizzadenesheli on using neural operators for Functional Ultrasound Imaging. I am developing a novel algorithm using Partial Differential Equations to learn power Doppler reconstruction functions from
+sparse sequences of ultrasound data of rat brain images.
 
-Research Work
+Work Experience
 ------
-A complete summary of my research work can be found in the [publications](https://amitesh2624.github.io/publications) section, but over the years, I have worked on using data to drive policy design. I have grown an expertise in handling governmental data, formulating policy recommendations on the basis of statistical inferences as a result of my work for [The World Resources Institute](https://www.wri.org/), analysing approximate and optimal solutions to NP-Hard problems such as the 2DBPP using genetic algorithms as part of the [Bulgarian Academy of Sciences](https://bas.bg), and analysing privacy frameworks, verifiable credentials, and global COVID control and monetary strategies for the [MIT PathCheck Foundation](https://www.pathcheck.org/).
+A complete summary of my research projects can be found in the [publications](https://soham-2004.github.io/publications/) section, but over the years, I have worked on interdisciplinary AI. During the onset of the pandemic in 2020, I worked at the [MIT PathCheck Foundation](https://www.pathcheck.org/) as a Software Developer. I worked on using statistical modelling to study the spread of COVID-19 in different countries and the efficacy of different governmental measures. I also led research team of 20 to analyze global COVID control and monetary strategies as well as the vaccination credential issued by various countis.
+
+In addition, I interned at IBM in May 2021. I worked with IBM researchers and psychologists from EmancipAction - a foundation in Mumbai, India, that homes
+victims of human trafficking. I contributed towards building an AI-assisted framework, powered by IBM Watson, that allows young girls at Emancipation to converse with a mental health chatbot in Hindi, English and Kannada. 
 
 
 Contact Info
 ------
-You can reach out to me via my [Linkedin](https://linkedin.com/in/aapandey) or by emailing me at amitesh [at] caltech [dot] edu.
+You can reach out to me via my [Linkedin](https://linkedin.com/in/sohamdasgupta91) or by emailing me at sdasgupt [at] caltech [dot] edu.
