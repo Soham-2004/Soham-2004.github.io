@@ -1,11 +1,11 @@
 ---
 title: “Adverse Drug Event Prediction using Noisy Literature-Derived Knowledge Graphs: Algorithm Development and Evaluation”
 collection: publications
-permalink: /publication/2021-06-09-bin-packing-solutions
-excerpt: 'Adverse drug events (ADEs) are unintended side effects of drugs that cause substantial clinical and economic burdens globally. A wealth of information, which facilitates ADE discovery, lies in the growing body of biomedical literature. Knowledge graphs (KGs) encode this information from the literature, where the vertices and the edges represent clinical concepts and their relations, respectively. In this paper, we use confidence scores during representation learning, so that the learned embeddings yield better features for ADE prediction models. '
-date: 2021-10-25
+permalink: /publication/2020-06-09-bin-packing-solutions
+excerpt: 'Adverse drug events (ADEs) are unintended side effects of drugs that cause substantial clinical and economic burdens globally. A wealth of information, which facilitates ADE discovery, lies in the growing body of biomedical literature. Knowledge graphs (KGs) encode this information from the literature, where the vertices and the edges represent clinical concepts and their relations, respectively. In this paper, we use confidence scores during representation learning, so that the learned embeddings yield better features for ADE prediction models.'
+date: 2021-10-15
 venue: 'Journal of Medical Internet Research(JMIR)'
-paperurl: 'https://medinform.jmir.org/2021/10/e32730/'
+paperurl: 'https://medinform.jmir.org/2021/10/e32730/PDF'
 ---
 First authored paper accepted to the Journal of Medical Internet Research(JMIR).
 
