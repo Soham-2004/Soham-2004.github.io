@@ -1,22 +1,15 @@
 ---
-title: “Adverse Drug Event Prediction using Noisy Literature-Derived Knowledge Graphs: Algorithm Development and Evaluation”
+title: “Learning predictive models of entity-threat relationships in cybersecurity from distributed representations of knowledge graphs.”
 collection: publications
-permalink: /publication/2020-06-09-bin-packing-solutions
-excerpt: 'Adverse drug events (ADEs) are unintended side effects of drugs that cause substantial clinical and economic burdens globally. A wealth of information, which facilitates ADE discovery, lies in the growing body of biomedical literature. Knowledge graphs (KGs) encode this information from the literature, where the vertices and the edges represent clinical concepts and their relations, respectively. In this paper, we use confidence scores during representation learning, so that the learned embeddings yield better features for ADE prediction models.'
-date: 2021-10-15
-venue: 'Journal of Medical Internet Research(JMIR)'
-paperurl: 'https://medinform.jmir.org/2021/10/e32730/PDF'
+permalink: /publication/2022-06-09-bin-packing-solutions
+excerpt: 'Graph embedding algorithms are used by researchers to automate feature engineering, allowing them to effectively utilise the information provided by large-scale knowledge graphs. In the field of cybersecurity, large-scale threat ontologies - where vertices and edges represent entities and their relations - can be inferred via Natural Language Processing on a wide array of sources. In this paper, we propose Weighted Walk, a graph embedding algorithm that uses a scoring function to utilise the confidence scores associated with the triplets in the cybersecurity ontology, to generate more semantically meaningful feature vectors.'
+date: 2021-09-17
+venue: 'Pioneer Research Journal'
+paperurl: 'https://drive.google.com/file/d/1xtwb9SgW1vesOyy9konweFpY38TvR9Rv/view'
 ---
-First authored paper accepted to the Journal of Medical Internet Research(JMIR).
+First authored paper accepted to the Pioneer Research Journal.
 
-Adverse drug events (ADEs) are unintended side effects of drugs that cause substantial clinical and economic burdens globally. A wealth of information, which facilitates ADE discovery, lies in the growing body of biomedical literature. Knowledge graphs (KGs) encode this information from the literature, where the vertices and the edges represent clinical concepts and their relations, respectively. In this paper, we use confidence scores during representation learning, so that the learned embeddings yield better features for ADE prediction models.
+Graph embedding algorithms are used by researchers to automate feature engineering, allowing them to effectively utilise the information provided by large-scale knowledge graphs. In the field of cybersecurity, large-scale threat ontologies - where vertices and edges represent entities and their relations - can be inferred via Natural Language Processing on a wide array of sources. In this paper, we propose Weighted Walk, a graph embedding algorithm that uses a scoring function to utilise the confidence scores associated with the triplets in the cybersecurity ontology, to generate more semantically meaningful feature vectors.
 
-[Download paper here](https://medinform.jmir.org/2021/10/e32730/PDF)
+[Download paper here](https://drive.google.com/file/d/1xtwb9SgW1vesOyy9konweFpY38TvR9Rv/view)
 
-Recommended citation:
-
-Dasgupta S, Jayagopal A, Jun Hong A, Mariappan R, Rajan V
-Adverse Drug Event Prediction Using Noisy Literature-Derived Knowledge Graphs: Algorithm Development and Validation
-JMIR Med Inform 2021;9(10):e32730
-URL: https://medinform.jmir.org/2021/10/e32730
-DOI: 10.2196/32730
