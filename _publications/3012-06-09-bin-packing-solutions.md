@@ -5,13 +5,13 @@ permalink: /publication/2020-06-09-bin-packing-solutions
 excerpt: 'Adverse drug events (ADEs) are unintended side effects of drugs that cause substantial clinical and economic burdens globally. A wealth of information, which facilitates ADE discovery, lies in the growing body of biomedical literature. Knowledge graphs (KGs) encode this information from the literature, where the vertices and the edges represent clinical concepts and their relations, respectively. In this paper, we use confidence scores during representation learning, so that the learned embeddings yield better features for ADE prediction models.'
 date: 2021-10-15
 venue: 'Journal of Medical Internet Research(JMIR)'
-paperurl: 'https://medinform.jmir.org/2021/10/e32730/PDF'
+paperurl: 'https://emerginginvestigators.org/articles/the-role-of-a-mask-understanding-the-performance-of-deep-neural-networks-to-detect-segment-and-extract-cellular-nuclei-from-microscopy-images'
 ---
 First authored paper accepted to the Journal of Medical Internet Research(JMIR).
 
 Cell segmentation is the task of identifying cell nuclei instances in fluorescence microscopy images. It plays a key role in biomedical analysis tasks like cell characterization, cancer cell identification, and gene expression measurement. The goal of this paper is to benchmark the performance of representative deep learning techniques for cell nuclei segmentation using standard datasets and common evaluation criteria. We investigate whether for cell nuclei segmentation, learning the nuclei masks in parallel with boundary detection features of the image provides superior performance and significantly cleaner separation of nuclei from images. We further explore the trade-off between increased accuracy, achieved through more complex deep learning models, and the heavy requirements imposed on both computational resources and training times. We believe this paper establishes an important baseline for cell nuclei segmentation, enabling researchers to continually refine and deploy neural models for real-world clinical applications.
 
-[Download paper here](https://medinform.jmir.org/2021/10/e32730/PDF)
+[Download paper here](https://emerginginvestigators.org/articles/the-role-of-a-mask-understanding-the-performance-of-deep-neural-networks-to-detect-segment-and-extract-cellular-nuclei-from-microscopy-images)
 
 Recommended citation:
 
