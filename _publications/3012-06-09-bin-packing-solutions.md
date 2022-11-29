@@ -13,10 +13,4 @@ First authored paper accepted to Harvard's Journal of Emerging Investigators.
 
 [Download paper here](https://emerginginvestigators.org/articles/the-role-of-a-mask-understanding-the-performance-of-deep-neural-networks-to-detect-segment-and-extract-cellular-nuclei-from-microscopy-images)
 
-Recommended citation:
 
-Dasgupta S, Jayagopal A, Jun Hong A, Mariappan R, Rajan V
-Adverse Drug Event Prediction Using Noisy Literature-Derived Knowledge Graphs: Algorithm Development and Validation
-JMIR Med Inform 2021;9(10):e32730
-URL: https://medinform.jmir.org/2021/10/e32730
-DOI: 10.2196/32730
