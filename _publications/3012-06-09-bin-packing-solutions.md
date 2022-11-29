@@ -1,5 +1,5 @@
 ---
-title: “The role of a mask - understanding the performance of deep neural networks to detect,
+title: “Understanding the performance of deep neural networks to detect,
 segment, and extract cellular nuclei from microscopy images.”
 collection: publications
 permalink: /publication/3012-06-09-bin-packing-solutions
