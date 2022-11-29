@@ -13,4 +13,5 @@ Cell segmentation is the task of identifying cell nuclei instances in fluorescen
 
 [Download paper here](https://emerginginvestigators.org/articles/the-role-of-a-mask-understanding-the-performance-of-deep-neural-networks-to-detect-segment-and-extract-cellular-nuclei-from-microscopy-images)
 
+Recommended citation:
 
