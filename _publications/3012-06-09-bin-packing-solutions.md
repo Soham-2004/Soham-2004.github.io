@@ -1,6 +1,5 @@
 ---
-title: “Understanding the performance of deep neural networks to detect,
-segment, and extract cellular nuclei from microscopy images.”
+title: “The role”
 collection: publications
 permalink: /publication/202-06-09-bin-packing-solutions
 excerpt: 'In this work, we make an attempt to bridge this gap by proposing a Transformers based multi-task framework that jointly trains multi-label emotion classification and multi-dimensional emotion regression, thereby exploiting the inter-relatedness between the two tasks for learning better shared representations for subjectivity analysis. We demonstrate the efficacy of our architecture on two benchmark datasets, EMOBANK and Affect in Tweets. We were further motivated by the need to develop a more efficient end-to-end deployable solution for better public health monitoring from social media conversations, which has become more important than ever owing to the tremendous detrimental impacts on the physical and mental well-being of the world population caused by the ongoing COVID-19 pandemic. '
