@@ -1,6 +1,6 @@
 ---
 title: "Software Developer, MIT Pathcheck Foundation"
-excerpt: "Nov 2020 (extended to Feb. 2022) - New Delhi, India"
+excerpt: "May 2021 (extended to May 2022) - New Delhi, India"
 permalink: /work_exp/portfolio-1
 collection: portfolio
 ---
