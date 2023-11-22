@@ -13,9 +13,6 @@ main:
 
   # - title: "Blog Posts"
   #   url: /year-archive/
-
-  - title: "Work Experience"
-    url: /portfolio/
     
   - title: "Resume"
     url: /files/Soham_Dasgupta_Resume.pdf
