@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a freshman majoring in Computer Science and B.E.M (Business, Economics, and Management) at the [California Institute of Technology(Caltech)](https://caltech.edu). My interests lie in machine learning, computer vision, and economics. In specific, I am interested in the applications of machine learning to other interdisciplinary fields. Previously, I have done research projects in the fields of healthcare, cybersecurity, and statistical modelling.
+I am a sophomore majoring in Computer Science and B.E.M (Business, Economics, and Management) at the [California Institute of Technology(Caltech)](https://caltech.edu). My interests lie in machine learning, computer vision, and economics. In specific, I am interested in the applications of machine learning to other interdisciplinary fields. Previously, I have done research projects in the fields of healthcare, cybersecurity, and statistical modelling.
 
 
 On-going Projects
